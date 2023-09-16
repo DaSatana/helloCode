@@ -1,0 +1,14 @@
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\bin\Debug\net7.0\HelloConsole.exe
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\bin\Debug\net7.0\HelloConsole.deps.json
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\bin\Debug\net7.0\HelloConsole.runtimeconfig.json
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\bin\Debug\net7.0\HelloConsole.dll
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\bin\Debug\net7.0\HelloConsole.pdb
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\obj\Debug\net7.0\HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\obj\Debug\net7.0\HelloConsole.AssemblyInfoInputs.cache
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\obj\Debug\net7.0\HelloConsole.AssemblyInfo.cs
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\obj\Debug\net7.0\HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\obj\Debug\net7.0\HelloConsole.dll
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\obj\Debug\net7.0\refint\HelloConsole.dll
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\obj\Debug\net7.0\HelloConsole.pdb
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\obj\Debug\net7.0\HelloConsole.genruntimeconfig.cache
+C:\Users\Azerty\Desktop\C#\GB 1 C#\HelloConsole\obj\Debug\net7.0\ref\HelloConsole.dll
